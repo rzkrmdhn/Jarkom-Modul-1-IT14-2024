@@ -9,3 +9,5 @@ Laporan pengerjaan soal praktikum Komunikasi Data dan Jaringan Komputer 2024 Kel
 
 ## Soal 1
 ## Creds
+
+![alt text](C:\Users\dhani\OneDrive\Gambar\Screenshot\creds)
