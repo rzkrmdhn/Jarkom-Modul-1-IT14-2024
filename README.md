@@ -5,7 +5,7 @@ Laporan pengerjaan soal praktikum Komunikasi Data dan Jaringan Komputer 2024 Kel
 | No. | Nama Anggota Kelompok | NRP |
 | :---         |     :---:      |          ---: |
 | 1.   | Rizki Ramadhani     | 5027221013    |
-| git diff     | git diff       | git diff      |
+| 2.   | Zidny Ilman Nafi'an       | 5027221072      |
 
 ## Soal 1
 ## Creds
@@ -18,5 +18,5 @@ nc 10.15.40.20 10007
 - Buka file di wireshark.
 ![Screenshot 2024-03-31 081624](https://github.com/rzkrmdhn/Jarkom-Modul-1-IT14-2024/assets/165869643/1addb43b-cfe4-4b85-8af7-a5cbfc955ec6)
 - Mencari kredensial pada file evidence.pcap di wireshark.
-## Problem
+## Kendala
 - Tidak dapat menemukan kredensial yang kemungkinan berbentuk string.
